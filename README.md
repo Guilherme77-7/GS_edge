@@ -336,36 +336,13 @@
 
 <hr>
 
-<h2>👨‍💼 Autor</h2>
-<p>Desenvolvido para fins acadêmicos - <strong>Engenharia de Software</strong></p>
+<h2>👨‍💼 Integrantes do Grupo</h2>
+<p>Nome	RM
+[Murilo Gonzalez Bez Chleba	[RM 566199] -
+[Guilherme Augusto F. Fernandes]	[RM 562107] -
+[Caio Marques Lins]	[RM 559805]</p>
 
 <hr>
-
-<h2>📄 Licença</h2>
-<p>Este projeto está licenciado sob a <strong>MIT License</strong> - veja o arquivo <code>LICENSE</code> para detalhes.</p>
-
-<hr>
-
-<h2>🤝 Contribuições</h2>
-<p>Contribuições são bem-vindas! Abra uma <strong>Issue</strong> ou envie um <strong>Pull Request</strong> com melhorias, correções de bugs ou novas funcionalidades.</p>
-
-<hr>
-
-<h2>💡 Roadmap Futuro</h2>
-<ul>
-  <li>☐ Suporte a múltiplos timers sincronizados</li>
-  <li>☐ Integração com Google Calendar</li>
-  <li>☐ Análise de produtividade com IA</li>
-  <li>☐ App mobile nativa (React Native)</li>
-  <li>☐ Modo offline com sincronização posterior</li>
-  <li>☐ Histórico de sessões persistente</li>
-</ul>
-
-<hr>
-
-<div class="center">
-  <p><strong>⭐ Se este projeto foi útil para você, considere deixar uma estrela no GitHub!</strong></p>
-</div>
 
 </body>
 </html>
